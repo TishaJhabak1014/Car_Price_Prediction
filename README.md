@@ -1,4 +1,4 @@
-# Car_Price_Prediction
+# Car Price Prediction 
 
 ## This repository depicts a machine learning based website that gives an approximate selling price of a car based on different features variables.
 
